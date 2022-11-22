@@ -11,7 +11,7 @@ int _printf(const char *restrict format, ...); " Arguments .Sh DESCRIPTION " Sec
 ```
 int main()
 
-{ char Kolex = computer engineer/software engineer _printf("Hello world, I'm a %s", "Kolex");
+{ char Fidelia = computer engineer/software engineer _printf("Hello world, I'm a %s", "Fidelia");
 
 return (0);
 
